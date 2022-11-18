@@ -30,7 +30,7 @@ Here is the overview of the projects I have worked on the past few years. Please
 
 | [American Sign Language Detection and Video Captioning](https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction)| [GTZAN Audio Genre Classification](https://github.com/suhasmaddali/Car-Prices-Prediction)|
 | :-:| :-:| 
-| [<img src = "https://github.com/suhasmaddali/Compressed-Images/blob/main/Bike%20Demand%20Prediction%20Image%201-min.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction)| [<img src="https://github.com/suhasmaddali/Compressed-Images/blob/main/Car%20Image%20Introduction-min.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Car-Prices-Prediction)
+| [<img src = "https://github.com/abhinavnippani/abhinavnippani/blob/main/Images/jo-hilton-ZLtsJXwQ2Fg-unsplash.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction)| [<img src="https://github.com/suhasmaddali/Compressed-Images/blob/main/Car%20Image%20Introduction-min.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Car-Prices-Prediction)
 
 
 <h2 align = "center"> Exploratory Data Analysis (EDA)</h2> 
