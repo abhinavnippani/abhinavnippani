@@ -10,7 +10,7 @@ A motivated data scientist working on creating scalable, impactful solutions to 
 
 I was introduced to data science through the courses offered in my undergrad at __Birla Institute of Technology and Science - Pilani__. This along with specializations completed in __Coursera__ were influential in my theoretical understanding of the field. Furthermore, my work experience of around 2 years as a Data Scientist where I worked in domains ranging from __Supply Chain__, __Sales__, __Marketing__, __E-Commerce__, __HR__ and __Finance__ enhanced my passion for the field. I'm currently pursuing my __Masters in Data Science__ at __Khoury College of Computer Sciences, Northeastern University__ to explore this field further.
 
-![](https://github.com/suhasmaddali/Images/blob/main/martin-shreder-5Xwaj9gaR0g-unsplash.jpg)
+![](https://github.com/abhinavnippani/abhinavnippani/blob/main/Images/zachary-keimig-Wz-5buxsNqA-unsplash.jpg)
 
 <h2> My Technical Skills 😀😀:</h2>
 
