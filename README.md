@@ -28,9 +28,9 @@ Here is the overview of the projects I have worked on the past few years. Please
 
 <h2 align = "center"> My Projects (2022)</h2> 
 
-| [American Sign Language Detection and Video Captioning](https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction)| [GTZAN Audio Genre Classification](https://github.com/suhasmaddali/Car-Prices-Prediction)|
+| [American Sign Language Detection and Video Captioning](https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction)| [GTZAN Audio Genre Classification](https://www.kaggle.com/code/nippani/gtzan-mel-spectrogram-resnet18)|
 | :-:| :-:| 
-| [<img src = "https://github.com/abhinavnippani/abhinavnippani/blob/main/Images/jo-hilton-ZLtsJXwQ2Fg-unsplash.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction)| [<img src="https://github.com/abhinavnippani/abhinavnippani/blob/main/Images/zac-bromell-Sxw9Cno5o9U-unsplash.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Car-Prices-Prediction)
+| [<img src = "https://github.com/abhinavnippani/abhinavnippani/blob/main/Images/jo-hilton-ZLtsJXwQ2Fg-unsplash.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction)| [<img src="https://github.com/abhinavnippani/abhinavnippani/blob/main/Images/zac-bromell-Sxw9Cno5o9U-unsplash.jpg" width = 500 height = 300/>](https://www.kaggle.com/code/nippani/gtzan-mel-spectrogram-resnet18)
 
 
 <h2 align = "center"> Exploratory Data Analysis (EDA)</h2> 
