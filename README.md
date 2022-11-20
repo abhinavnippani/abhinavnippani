@@ -28,37 +28,37 @@ Here is the overview of the projects I have worked on the past few years. Please
 
 <h2 align = "center"> My Projects (2022)</h2> 
 
-| [American Sign Language Detection and Video Captioning](https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction)| [GTZAN Audio Genre Classification](https://www.kaggle.com/code/nippani/gtzan-mel-spectrogram-resnet18)|
+| American Sign Language Detection and Video Captioning| [GTZAN Audio Genre Classification using Deep Learning](https://www.kaggle.com/code/nippani/gtzan-mel-spectrogram-resnet18)|
 | :-:| :-:| 
 | [<img src = "https://github.com/abhinavnippani/abhinavnippani/blob/main/Images/jo-hilton-ZLtsJXwQ2Fg-unsplash.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction)| [<img src="https://github.com/abhinavnippani/abhinavnippani/blob/main/Images/zac-bromell-Sxw9Cno5o9U-unsplash.jpg" width = 500 height = 300/>](https://www.kaggle.com/code/nippani/gtzan-mel-spectrogram-resnet18)
 
 
 <h2 align = "center"> Exploratory Data Analysis (EDA)</h2> 
 
-| [Preprocessing Audio Data](https://www.kaggle.com/code/nippani/preprocessing-audio-data-gtzan)| [Kaggle 2022 Survey](https://github.com/suhasmaddali/Car-Prices-Prediction)|
+| [Preprocessing Audio Data](https://www.kaggle.com/code/nippani/preprocessing-audio-data-gtzan)| [Kaggle 2022 Survey]([https://github.com/suhasmaddali/Car-Prices-Prediction](https://www.kaggle.com/code/nippani/kaggle-survey-2022-eda-of-all-44-questions))|
 | :-:| :-:| 
-| [<img src = "https://github.com/abhinavnippani/abhinavnippani/blob/main/Images/marius-masalar-rPOmLGwai2w-unsplash.jpg" width = 500 height = 300/>](https://www.kaggle.com/code/nippani/preprocessing-audio-data-gtzan)| [<img src="https://github.com/abhinavnippani/abhinavnippani/blob/main/Images/luke-chesser-JKUTrJ4vK00-unsplash.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Car-Prices-Prediction)
+| [<img src = "https://github.com/abhinavnippani/abhinavnippani/blob/main/Images/marius-masalar-rPOmLGwai2w-unsplash.jpg" width = 500 height = 300/>](https://www.kaggle.com/code/nippani/preprocessing-audio-data-gtzan)| [<img src="https://github.com/abhinavnippani/abhinavnippani/blob/main/Images/luke-chesser-JKUTrJ4vK00-unsplash.jpg" width = 500 height = 300/>](https://www.kaggle.com/code/nippani/kaggle-survey-2022-eda-of-all-44-questions)
 
 
 <h2 align = "center"> Reinvent the Wheel 2.0 - Hackathon (Auto Aftermarket)</h2> 
 
-| [Forecasting the Volume of Scrap Tires](https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction)| [Logistic Dispatch Optimization](https://github.com/suhasmaddali/Car-Prices-Prediction)|
+| Forecasting the Volume of Scrap Tires| Logistic Dispatch Optimization|
 | :-:| :-:| 
-| [<img src = "https://github.com/abhinavnippani/abhinavnippani/blob/main/Images/goh-rhy-yan-ud0twV98uvg-unsplash.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction)| [<img src="https://github.com/abhinavnippani/abhinavnippani/blob/main/Images/adrian-sulyok-sczNLg6rrhQ-unsplash.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Car-Prices-Prediction)
+| <img src = "https://github.com/abhinavnippani/abhinavnippani/blob/main/Images/goh-rhy-yan-ud0twV98uvg-unsplash.jpg" width = 500 height = 300/>| <img src="https://github.com/abhinavnippani/abhinavnippani/blob/main/Images/adrian-sulyok-sczNLg6rrhQ-unsplash.jpg" width = 500 height = 300/>
 
 
 <h2 align = "center"> Research Work</h2> 
 
-| [Forecasting News Driven Stock Market Movements](https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction)| [Random Forest based Real Time Fault Monitoring System for Industries](https://github.com/suhasmaddali/Car-Prices-Prediction)|
+| Forecasting News Driven Stock Market Movements| [Random Forest based Real Time Fault Monitoring System for Industries](https://github.com/suhasmaddali/Car-Prices-Prediction)|
 | :-:| :-:| 
-| [<img src = "https://github.com/abhinavnippani/abhinavnippani/blob/main/Images/lucas-hoang-VgU5zIEy57A-unsplash.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction)| [<img src="https://github.com/abhinavnippani/abhinavnippani/blob/main/Images/opt-lasers-fy5RN7pgax8-unsplash.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Car-Prices-Prediction)
+| <img src = "https://github.com/abhinavnippani/abhinavnippani/blob/main/Images/lucas-hoang-VgU5zIEy57A-unsplash.jpg" width = 500 height = 300/>| [<img src="https://github.com/abhinavnippani/abhinavnippani/blob/main/Images/opt-lasers-fy5RN7pgax8-unsplash.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Car-Prices-Prediction)
 
 
 <h2 align = "center"> Other Interesting Projects I'm Working On</h2> 
 
-| [Algo Trading](https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction)| [...](https://github.com/suhasmaddali/Car-Prices-Prediction)|
+| Algo Trading| ...|
 | :-:| :-:| 
-| [<img src = "https://github.com/suhasmaddali/Compressed-Images/blob/main/Bike%20Demand%20Prediction%20Image%201-min.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction)| [<img src="https://github.com/suhasmaddali/Compressed-Images/blob/main/Car%20Image%20Introduction-min.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Car-Prices-Prediction)
+| <img src = "https://github.com/suhasmaddali/Compressed-Images/blob/main/Bike%20Demand%20Prediction%20Image%201-min.jpg" width = 500 height = 300/>| <img src="https://github.com/suhasmaddali/Compressed-Images/blob/main/Car%20Image%20Introduction-min.jpg" width = 500 height = 300/>
 
 
 <h2 align = "center"> Data Science Algorithms From Scratch</h2> 
