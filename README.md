@@ -35,7 +35,7 @@ Here is the overview of the projects I have worked on the past few years. Please
 
 <h2 align = "center"> Exploratory Data Analysis (EDA)</h2> 
 
-| [Preprocessing Audio Data](https://www.kaggle.com/code/nippani/preprocessing-audio-data-gtzan)| [Kaggle 2022 Survey]([https://github.com/suhasmaddali/Car-Prices-Prediction](https://www.kaggle.com/code/nippani/kaggle-survey-2022-eda-of-all-44-questions))|
+| [Preprocessing Audio Data](https://www.kaggle.com/code/nippani/preprocessing-audio-data-gtzan)| [Kaggle 2022 Survey](https://www.kaggle.com/code/nippani/kaggle-survey-2022-eda-of-all-44-questions)|
 | :-:| :-:| 
 | [<img src = "https://github.com/abhinavnippani/abhinavnippani/blob/main/Images/marius-masalar-rPOmLGwai2w-unsplash.jpg" width = 500 height = 300/>](https://www.kaggle.com/code/nippani/preprocessing-audio-data-gtzan)| [<img src="https://github.com/abhinavnippani/abhinavnippani/blob/main/Images/luke-chesser-JKUTrJ4vK00-unsplash.jpg" width = 500 height = 300/>](https://www.kaggle.com/code/nippani/kaggle-survey-2022-eda-of-all-44-questions)
 
@@ -49,9 +49,9 @@ Here is the overview of the projects I have worked on the past few years. Please
 
 <h2 align = "center"> Research Work</h2> 
 
-| Forecasting News Driven Stock Market Movements| [Random Forest based Real Time Fault Monitoring System for Industries](https://github.com/suhasmaddali/Car-Prices-Prediction)|
+| Forecasting News Driven Stock Market Movements| [Random Forest based Real Time Fault Monitoring System for Industries](https://ieeexplore.ieee.org/document/8777673)|
 | :-:| :-:| 
-| <img src = "https://github.com/abhinavnippani/abhinavnippani/blob/main/Images/lucas-hoang-VgU5zIEy57A-unsplash.jpg" width = 500 height = 300/>| [<img src="https://github.com/abhinavnippani/abhinavnippani/blob/main/Images/opt-lasers-fy5RN7pgax8-unsplash.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Car-Prices-Prediction)
+| <img src = "https://github.com/abhinavnippani/abhinavnippani/blob/main/Images/lucas-hoang-VgU5zIEy57A-unsplash.jpg" width = 500 height = 300/>| [<img src="https://github.com/abhinavnippani/abhinavnippani/blob/main/Images/opt-lasers-fy5RN7pgax8-unsplash.jpg" width = 500 height = 300/>](https://ieeexplore.ieee.org/document/8777673)
 
 
 <h2 align = "center"> Other Interesting Projects I'm Working On</h2> 
