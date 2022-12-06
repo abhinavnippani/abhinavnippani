@@ -28,9 +28,9 @@ Here is the overview of the projects I have worked on the past few years. Please
 
 <h2 align = "center"> My Projects (2022)</h2> 
 
-| American Sign Language Detection and Video Captioning| [GTZAN Audio Genre Classification using Deep Learning](https://www.kaggle.com/code/nippani/gtzan-mel-spectrogram-resnet18)|
+| [American Sign Language Detection and Video Captioning](https://github.com/adupatil/Live_ASL_Detection)| [GTZAN Audio Genre Classification using Deep Learning](https://www.kaggle.com/code/nippani/gtzan-mel-spectrogram-resnet18)|
 | :-:| :-:| 
-| [<img src = "https://github.com/abhinavnippani/abhinavnippani/blob/main/Images/jo-hilton-ZLtsJXwQ2Fg-unsplash.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction)| [<img src="https://github.com/abhinavnippani/abhinavnippani/blob/main/Images/zac-bromell-Sxw9Cno5o9U-unsplash.jpg" width = 500 height = 300/>](https://www.kaggle.com/code/nippani/gtzan-mel-spectrogram-resnet18)
+| [<img src = "https://github.com/abhinavnippani/abhinavnippani/blob/main/Images/jo-hilton-ZLtsJXwQ2Fg-unsplash.jpg" width = 500 height = 300/>](https://github.com/adupatil/Live_ASL_Detection)| [<img src="https://github.com/abhinavnippani/abhinavnippani/blob/main/Images/zac-bromell-Sxw9Cno5o9U-unsplash.jpg" width = 500 height = 300/>](https://www.kaggle.com/code/nippani/gtzan-mel-spectrogram-resnet18)
 
 
 <h2 align = "center"> Exploratory Data Analysis (EDA)</h2> 
