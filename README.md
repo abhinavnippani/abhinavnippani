@@ -49,14 +49,14 @@ Here is the overview of the projects I have worked on the past few years. Please
 
 <h2 align = "center"> Research Work</h2> 
 
-| [Forecasting News Driven Stock Market Movements] (https://github.com/abhinavnippani/Forecasting-News-Driven-Stock-Market-Movements)| [Random Forest based Real Time Fault Monitoring System for Industries](https://ieeexplore.ieee.org/document/8777673)|
+| [Forecasting News Driven Stock Market Movements](https://github.com/abhinavnippani/Forecasting-News-Driven-Stock-Market-Movements)| [Random Forest based Real Time Fault Monitoring System for Industries](https://ieeexplore.ieee.org/document/8777673)|
 | :-:| :-:| 
 | [<img src = "https://github.com/abhinavnippani/abhinavnippani/blob/main/Images/lucas-hoang-VgU5zIEy57A-unsplash.jpg" width = 500 height = 300/>](https://github.com/abhinavnippani/Forecasting-News-Driven-Stock-Market-Movements)| [<img src="https://github.com/abhinavnippani/abhinavnippani/blob/main/Images/opt-lasers-fy5RN7pgax8-unsplash.jpg" width = 500 height = 300/>](https://ieeexplore.ieee.org/document/8777673)
 
 
 <h2 align = "center"> Other Interesting Projects I'm Working On</h2> 
 
-| [Algo Trading] (https://github.com/abhinavnippani/Algo-Trading)| ...|
+| [Algo Trading](https://github.com/abhinavnippani/Algo-Trading)| ...|
 | :-:| :-:| 
 | [<img src = "https://github.com/abhinavnippani/abhinavnippani/blob/main/Images/maxim-hopman-fiXLQXAhCfk-unsplash.jpg" width = 500 height = 300/>](https://github.com/abhinavnippani/Algo-Trading)| <img src="https://github.com/abhinavnippani/abhinavnippani/blob/main/Images/fabio-oyXis2kALVg-unsplash.jpg" width = 500 height = 300/>
 
