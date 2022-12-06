@@ -42,23 +42,23 @@ Here is the overview of the projects I have worked on the past few years. Please
 
 <h2 align = "center"> Reinvent the Wheel 2.0 - Hackathon (Auto Aftermarket)</h2> 
 
-| Forecasting the Volume of Scrap Tires| Logistic Dispatch Optimization|
+| [Forecasting the Volume of Scrap Tires](https://www.linkedin.com/posts/abhinav-nippani_reinventthewheel-datascience-activity-6997787052045955072-Irh1?utm_source=share&utm_medium=member_desktop)| [Logistic Dispatch Optimization](https://www.linkedin.com/posts/abhinav-nippani_reinventthewheel-datascience-activity-6997787052045955072-Irh1?utm_source=share&utm_medium=member_desktop)|
 | :-:| :-:| 
-| <img src = "https://github.com/abhinavnippani/abhinavnippani/blob/main/Images/goh-rhy-yan-ud0twV98uvg-unsplash.jpg" width = 500 height = 300/>| <img src="https://github.com/abhinavnippani/abhinavnippani/blob/main/Images/adrian-sulyok-sczNLg6rrhQ-unsplash.jpg" width = 500 height = 300/>
+| [<img src = "https://github.com/abhinavnippani/abhinavnippani/blob/main/Images/goh-rhy-yan-ud0twV98uvg-unsplash.jpg" width = 500 height = 300/>](https://www.linkedin.com/posts/abhinav-nippani_reinventthewheel-datascience-activity-6997787052045955072-Irh1?utm_source=share&utm_medium=member_desktop)| [<img src="https://github.com/abhinavnippani/abhinavnippani/blob/main/Images/adrian-sulyok-sczNLg6rrhQ-unsplash.jpg" width = 500 height = 300/>](https://www.linkedin.com/posts/abhinav-nippani_reinventthewheel-datascience-activity-6997787052045955072-Irh1?utm_source=share&utm_medium=member_desktop)
 
 
 <h2 align = "center"> Research Work</h2> 
 
-| Forecasting News Driven Stock Market Movements| [Random Forest based Real Time Fault Monitoring System for Industries](https://ieeexplore.ieee.org/document/8777673)|
+| [Forecasting News Driven Stock Market Movements](https://github.com/abhinavnippani/Forecasting-News-Driven-Stock-Market-Movements)| [Random Forest based Real Time Fault Monitoring System for Industries](https://ieeexplore.ieee.org/document/8777673)|
 | :-:| :-:| 
-| <img src = "https://github.com/abhinavnippani/abhinavnippani/blob/main/Images/lucas-hoang-VgU5zIEy57A-unsplash.jpg" width = 500 height = 300/>| [<img src="https://github.com/abhinavnippani/abhinavnippani/blob/main/Images/opt-lasers-fy5RN7pgax8-unsplash.jpg" width = 500 height = 300/>](https://ieeexplore.ieee.org/document/8777673)
+| [<img src = "https://github.com/abhinavnippani/abhinavnippani/blob/main/Images/lucas-hoang-VgU5zIEy57A-unsplash.jpg" width = 500 height = 300/>](https://github.com/abhinavnippani/Forecasting-News-Driven-Stock-Market-Movements)| [<img src="https://github.com/abhinavnippani/abhinavnippani/blob/main/Images/opt-lasers-fy5RN7pgax8-unsplash.jpg" width = 500 height = 300/>](https://ieeexplore.ieee.org/document/8777673)
 
 
 <h2 align = "center"> Other Interesting Projects I'm Working On</h2> 
 
-| Algo Trading| ...|
+| [Algo Trading](https://github.com/abhinavnippani/Algo-Trading)| ...|
 | :-:| :-:| 
-| <img src = "https://github.com/suhasmaddali/Compressed-Images/blob/main/Bike%20Demand%20Prediction%20Image%201-min.jpg" width = 500 height = 300/>| <img src="https://github.com/suhasmaddali/Compressed-Images/blob/main/Car%20Image%20Introduction-min.jpg" width = 500 height = 300/>
+| [<img src = "https://github.com/abhinavnippani/abhinavnippani/blob/main/Images/maxim-hopman-fiXLQXAhCfk-unsplash.jpg" width = 500 height = 300/>](https://github.com/abhinavnippani/Algo-Trading)| <img src="https://github.com/abhinavnippani/abhinavnippani/blob/main/Images/fabio-oyXis2kALVg-unsplash.jpg" width = 500 height = 300/>
 
 
 <h2 align = "center"> Data Science Algorithms From Scratch</h2> 
