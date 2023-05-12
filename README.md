@@ -26,7 +26,11 @@ Here is the overview of the projects I have worked on the past few years. Please
 <img src = "https://github.com/suhasmaddali/Images/blob/main/New%20Intro%20Gif%20Image.gif" width = 1000 height = 400/>
 
 
-<h2 align = "center"> My Projects (2022)</h2> 
+<h2 align = "center"> My Projects</h2> 
+
+| [Comparative Analysis of Multimodal Architectures]()| [Learning on Traffic Networks for Road Safety]()|
+| :-:| :-:| 
+| [<img src = "https://github.com/abhinavnippani/abhinavnippani/blob/main/Images/lucas-hoang-VgU5zIEy57A-unsplash.jpg" width = 500 height = 300/>](https://github.com/abhinavnippani/Forecasting-News-Driven-Stock-Market-Movements)| [<img src="https://github.com/abhinavnippani/abhinavnippani/blob/main/Images/opt-lasers-fy5RN7pgax8-unsplash.jpg" width = 500 height = 300/>](https://ieeexplore.ieee.org/document/8777673)
 
 | [American Sign Language Detection and Video Captioning](https://github.com/adupatil/Live_ASL_Detection)| [GTZAN Audio Genre Classification using Deep Learning](https://www.kaggle.com/code/nippani/gtzan-mel-spectrogram-resnet18)|
 | :-:| :-:| 
